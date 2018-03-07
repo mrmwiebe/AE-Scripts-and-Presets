@@ -18,6 +18,8 @@ If you work with any pixel art, this is a super handy script to use.
 
 By default After Effects softens the edges of your footage, which is undesirable if you want those crisp pixels.  Kert Gartner taught me that if you precomp your footage, scale it by 4x inside the pre-comp and set the footage to draft mode, the pixels stay crisp on the precomped footage!  It's a bit of a pain when you're working with a lot of footage, so this just automates the process. :)
 
+To install, just download the .jsxbin file and put it in your current After Effects install folder /Scripts/ScriptsUI folder.
+
 ## Presets
 
 This is a collection of custom presets that I found help a lot with my After Effects projects.  Just dump the folder into C:\Program Files\Adobe\Adobe After Effects CC 2018\Support Files\Presets and drag-n-drop them onto your layers!
