@@ -1,5 +1,23 @@
 # AE-Scripts-and-Presets
 
+## Media Encoder Presets
+
+This is a collection of presets I've made based on requirements for different video game console publishers etc.
+
+## Scripts
+
+A collection (well one so far) of scripts I've made.  The source folder contains the source code for any scripts.  Details below.
+
+### Dockable Panel Base
+
+This is a template to base other dockable scripts on.  I found it convoluted to create this when it seems like it's the same for any panel.  Just take this and build on it!
+
+### Pixel Comp
+
+If you work with any pixel art, this is a super handy script to use.  
+
+By default After Effects softens the edges of your footage, which is undesirable if you want those crisp pixels.  Kert Gartner taught me that if you precomp your footage, scale it by 4x inside the pre-comp and set the footage to draft mode, the pixels stay crisp on the precomped footage!  It's a bit of a pain when you're working with a lot of footage, so this just automates the process. :)
+
 ## Presets
 
 This is a collection of custom presets that I found help a lot with my After Effects projects.  Just dump the folder into C:\Program Files\Adobe\Adobe After Effects CC 2018\Support Files\Presets and drag-n-drop them onto your layers!
